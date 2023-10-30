@@ -1,0 +1,10 @@
+"conference-register System user guid " 
+
+
+install packages 
+#npm install
+
+remove database connection and add new database connection
+
+run server file and client file 
+#npm start"
